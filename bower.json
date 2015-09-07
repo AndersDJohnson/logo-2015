@@ -1,0 +1,19 @@
+{
+  "name": "logo-2015",
+  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
+  "license": "Copyright 2015 Anders D. Johnson",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1"
+  }
+}
